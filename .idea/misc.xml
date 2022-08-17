@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_more_horiz_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_delete.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_edit.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_right.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_warning.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/icon_background.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/icon_outer_background.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/indicator_active_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/indicator_inactive_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/view_pager_background.xml" value="0.2085" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.3016304347826087" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/add_item.xml" value="0.3016304347826087" />
+        <entry key="app/src/main/res/layout/custom_dialog.xml" value="0.3016304347826087" />
+        <entry key="app/src/main/res/layout/list_item.xml" value="0.3016304347826087" />
+        <entry key="app/src/main/res/layout/onboarding_item_container.xml" value="0.3016304347826087" />
+        <entry key="app/src/main/res/menu/show_menu.xml" value="0.35520833333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
